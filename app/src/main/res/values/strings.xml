@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CharacterExploreTest</string>
+    <string name="filter">Filter</string>
+    <string name="search_actors">Search Actors...</string>
+</resources>
